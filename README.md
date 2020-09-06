@@ -22,4 +22,4 @@
 ### Co jsme dělali?
 #### 1.hodina - 7. 9. 2020
 - úvod, organizační informace
-- úloha s házením vajíček
+- úlohy na zamyšlení, práce ve skupinkách
