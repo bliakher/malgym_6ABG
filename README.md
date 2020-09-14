@@ -23,3 +23,7 @@
 #### 1.hodina - 7. 9. 2020
 - úvod, organizační informace
 - úlohy na zamyšlení, práce ve skupinkách
+
+#### 2.hodina - 14. 9. 2020
+- rozbor domácího úkolu
+- vývojové diagramy
