@@ -27,3 +27,7 @@
 #### 2.hodina - 14. 9. 2020
 - rozbor domácího úkolu
 - vývojové diagramy
+
+#### 3.hodina - 21. 9. 2020
+- vývojové diagramy
+- základní model počítače
