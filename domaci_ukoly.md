@@ -7,3 +7,9 @@
 - Existuje neprohrávající strategie? Pro kterého hráče?
 - Řešení sepište a pošlete na mail, **předmět mailu: 5.AG Páska a nůžky**
 - **Deadline** 13. 9. 2020 23:59
+
+### 1. Vývojový diagram - 5 bodů
+- Na vstupu jsou zadaná 3 čísla - a, b, c. Úkolem je vymyslet algoritmus, který čísla seřadí podle velikosti (vzestupně).
+- Algoritmus zakreslete do **vývojového diagramu**. Doporučuju si ho nejdřív sepsat v bodech.
+- Nápověda: zamyslete se, kolik je možných výstupů (seřazení 3 čísel)
+- **Deadline** 4. 10. 2020 23:59
