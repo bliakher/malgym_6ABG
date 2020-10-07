@@ -13,3 +13,9 @@
 - Algoritmus zakreslete do **vývojového diagramu**. Doporučuju si ho nejdřív sepsat v bodech.
 - Nápověda: zamyslete se, kolik je možných výstupů (seřazení 3 čísel)
 - **Deadline** 4. 10. 2020 23:59
+
+### 2. Python (instalace) - 1 bod
+- Nainstalujte si Python na svůj domácí počítač podle návodu, který najdete v MS Teams -> Files -> Class Materials.
+- Pošlete mi screenshot textového editoru IDLE (měl by se nainstalovat automaticky s Pythonem).
+- V případě problémů mi pište.
+- **Deadline** 11. 10. 2020 23:59
