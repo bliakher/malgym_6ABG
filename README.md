@@ -31,3 +31,8 @@
 #### 3.hodina - 21. 9. 2020
 - vývojové diagramy
 - základní model počítače
+
+#### 4. hodina - 5. 10. 2020 - OH
+- řešení domácích úkolů
+- základní model počítače
+- dvojková soustava
