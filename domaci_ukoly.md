@@ -24,3 +24,16 @@
 - Úkol slouží hlavně k tomu, abyste si připomněli, co jsme dělali na poslední hodině
 - úkol: Napsat program v pythonu, který načte 2 čísla z uživatelského vstupu, uloží je do proměnných a proměnné vypíše. Poté prohodí obsah proměnných (tak aby v první proměnné bylo uložené to, co bylo ve druhé a obráceně), proměnné znovu vypíše. Nestačí jen vypsat proměnné v opačném pořadí.
 - **Deadline** 25. 10. 2020 23:59
+
+### 4. Převrácená hodnota absolutní hodnoty - 5 bodů
+- **Absolutní hodnota** čísla a |a|
+  - pro a v intervalu (-nek, 0) : |a| = -a
+  - pro a v intervalu <0, +nek) : |a| = a
+  - př. |-3| = 3, |5| = 5
+- **Převrácená hodnota** čísla a je 1/a
+  - př. převrácená hodnota 5 je 1/5
+- Napište program v pythonu, který načte od uživatele celé číslo x a spočítá převrácenou hodnotu jeho absolutní hodnoty, tj. 1/|x|
+- Pozor na dělení 0.
+- **Deadline** 31. 10. 2020 23:59
+
+
