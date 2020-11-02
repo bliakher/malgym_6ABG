@@ -46,3 +46,7 @@
 - vstup a výstup
 - podmínky - if/else
 
+#### 7. hodina - 2. 11. 2020 - OH
+- podmínky - if/else
+- cykly - while, for
+
