@@ -36,4 +36,10 @@
 - Pozor na dělení 0.
 - **Deadline** 31. 10. 2020 23:59
 
+### 5. Násobky čísla - 5 bodů
+- Napište program v Pythonu, který načte číslo z uživatelského vstupu, a vypíše všechny násobky toho čísla menší než 100.
+- Nápověda: využijte while cyklus a podmínku
+- **Deadline** 8. 11. 2020 23:59
+
+
 
