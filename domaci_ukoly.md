@@ -47,8 +47,9 @@
   - Pokud je číslo dělitelné 3, hráč místo něj řekne "Fizz".
   - Pokud je dělitelné 5, řekne "Buzz".
   - Pokud je dělitelné 3 i 5 zároveň, řekne "FizzBuzz".
-- Vaším úkolem je napsat program, který vygeneruje tahák pro tuhle hru - načte číslo x ze vstupu a vygeneruje odpovědi do hry od 1 do x.
-- Pro každé číslo se vytiskne jeden řádek výstupu - číslo/Fizz/Buzz/FizzBuzz
+- Vaším úkolem je napsat program, který vygeneruje tahák pro tuhle hru - načte číslo x ze vstupu a vygeneruje odpovědi do hry od 1 do x - 1, 2, Fizz, 4, Buzz, Fizz, 7...
+- Můžete předpokládat, že vstup je vždy kladné celé číslo.
+- Každé číslo se vytiskne na samostatný řádek výstupu.
 - **Deadline** 21. 11. 2020 23:59
   
 
