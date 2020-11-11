@@ -39,7 +39,17 @@
 ### 5. Násobky čísla - 5 bodů
 - Napište program v Pythonu, který načte číslo z uživatelského vstupu, a vypíše všechny násobky toho čísla menší než 100.
 - Nápověda: využijte while cyklus a podmínku
-- **Deadline** 8. 11. 2020 23:59
+- **Deadline** 8.(15.) 11. 2020 23:59
 
+
+### 6. FizzBuzz 
+- Ve hře FizzBuzz se 2 hráči střídají a říkají postupně čísla od 1 dál, dokud se někdo z nich nesplete. Při tom musí dodržet následující pravidla:
+  - Pokud je číslo dělitelné 3, hráč místo něj řekne "Fizz".
+  - Pokud je dělitelné 5, řekne "Buzz".
+  - Pokud je dělitelné 3 i 5 zároveň, řekne "FizzBuzz".
+- Vaším úkolem je napsat program, který vygeneruje tahák pro tuhle hru - načte číslo x ze vstupu a vygeneruje odpovědi do hry od 1 do x.
+- Pro každé číslo se vytiskne jeden řádek výstupu - číslo/Fizz/Buzz/FizzBuzz
+- **Deadline** 21. 11. 2020 23:59
+  
 
 
