@@ -50,3 +50,8 @@
 - podmínky - if/else
 - cykly - while, for
 
+#### 8. hodina - 9. 11. 2020 - OH
+- řešení domácího úkolu
+- while, for
+- FizzBuzz
+
