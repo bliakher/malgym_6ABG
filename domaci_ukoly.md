@@ -42,7 +42,7 @@
 - **Deadline** 8.(15.) 11. 2020 23:59
 
 
-### 6. FizzBuzz 
+### 6. FizzBuzz - 6 bodů
 - Ve hře FizzBuzz se 2 hráči střídají a říkají postupně čísla od 1 dál, dokud se někdo z nich nesplete. Při tom musí dodržet následující pravidla:
   - Pokud je číslo dělitelné 3, hráč místo něj řekne "Fizz".
   - Pokud je dělitelné 5, řekne "Buzz".
