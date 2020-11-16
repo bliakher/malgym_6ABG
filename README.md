@@ -55,3 +55,7 @@
 - while, for
 - FizzBuzz
 
+#### 9. hodina - 16. 11. 2020 - OH
+- cykly - while, for
+- pole
+
