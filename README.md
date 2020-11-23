@@ -59,3 +59,6 @@
 - cykly - while, for
 - pole
 
+#### 10. hodina - 23. 11. 2020 - OH
+- test na nečisto - procházení pole
+- hledání minima/maxima v poli
