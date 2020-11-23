@@ -52,5 +52,8 @@
 - Každé číslo se vytiskne na samostatný řádek výstupu.
 - **Deadline** 21. 11. 2020 23:59
   
-
-
+### 7. Druhý největší prvek - 8 bodů
+- Napište program, který načte ze vstupu posloupnost n kladných čísel - posloupnost je ukončena -1, která značí konec vstupu.
+- Na výstup vypište 2. největší prvek posloupnosti.
+- Např.: pro vstup 1 31 2 5 87 12 34 9 -1 bude výstup 34
+- **Deadline** 5. 12. 2020 23:59
