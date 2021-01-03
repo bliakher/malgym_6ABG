@@ -1,6 +1,6 @@
 ## **14.hodina - 4. 1. 2021**
 
-*Projděte si postupně úlohy, diskutujte ve skupince. Dnešní zadání je hlavně opakování a procvičení. Snažte se odpověď vymyslet sami, když nebudete vedět, podívejte se do kódu z minulých hodin nebo na internet. Pokud se někde zaseknete, můžete to přeskočit a jít dál. Nevadí, když nestihnete všechno.*
+*Look at the exercices, work together with your group to discuss and solve them. Try to come up with the solution by yourself, if you don't know, you can consult code from previouse lessons or the internet. If you are stuck, you can skip to the next task.*
 
 #### Functions
 - Remind yourselves what are functions and their syntax in python.
