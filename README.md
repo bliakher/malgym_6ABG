@@ -62,3 +62,21 @@
 #### 10. hodina - 23. 11. 2020 - OH
 - test na nečisto - procházení pole
 - hledání minima/maxima v poli
+
+#### 11. hodina - 30. 11. 2020 - OH
+- test, řešení
+- funkce - základní syntax
+
+#### 12. hodina - 7. 12. 2020
+- časová složitost - motivace, různé přístupy
+- porovnávání algoritmů na základě počtu provedených operací
+- složitost algoritmu nalezení druhého největšího prvku posloupnosti
+
+#### 13. hodina - 14. 12. 2020 - OH
+- časová složitost opakování
+- funkce na poli - count, index
+- další datové struktury - seznam, množina
+
+
+
+
