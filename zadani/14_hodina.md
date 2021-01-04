@@ -27,7 +27,7 @@
 
 #### References (odkazy)
 - Look at this code a think what it will print:
-```
+``` python
 a = [1, 2, 3]
 b = a
 b[0] = 54
