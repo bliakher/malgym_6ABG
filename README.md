@@ -77,6 +77,9 @@
 - funkce na poli - count, index
 - další datové struktury - seznam, množina
 
-
+#### 14. hodina - 4. 1. 2021 - OH
+- práce ve skupinkách
+- opakování - funkce
+- další datové struktury - seznam, množina - příklady
 
 
