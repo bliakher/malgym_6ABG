@@ -34,5 +34,11 @@ b[0] = 54
 print(a)
 print(b)
 ```
+- Now try to run it. Does your expectation match the result?
+<details>
+<summary>Explanation</summary>
+  
+  expl
+</details>
 
  
