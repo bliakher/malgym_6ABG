@@ -42,6 +42,8 @@ print("list b:", b)
   When you assign a list to a variable ```a = [1,2,3]``` you create a reference to the list and save it in a. A refence is something that points into the computer memory where the item (in this case our list) is stored. The reference points at the begining of the list. You can imagine that instead of saving the whole list to the variable we just save there some map that says where to find the list in memory.
   
   ```b = a``` does not assign the whole list from a to b but it just gives b the same map (reference) where to find the list. We now have 2 variables, both of them pointing to the same list. So when we change something in the list called b, it changes the one common list, so it also changes a.
+  
+  If you want to copy a list you can use ```b = a[:]```. 
 </details>
 
  
