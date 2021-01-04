@@ -27,7 +27,7 @@ names ["favourite programming language"] = "Python"
 
 names = ["Jane", "Edgar Allan", "Lev"]
 surnames = ["Austen", "Poe", "Tolstoy"]
-def dictionary (a, b):
+def dictionary(a, b):
   dictionary = {}
   for i in range(len(a)):
     name = a[i] #key
