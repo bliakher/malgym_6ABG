@@ -9,6 +9,7 @@
 
 #### Dictionary (slovník)
 - What is a dictionary data structure and how it is written in python?
+- For reference you can look here: https://www.w3schools.com/python/python_dictionaries.asp
 - Look into basic operations with a dictionary - accessing element with key, changing value for a given key, adding new key-value pair...
 - Remember how to loop through dictionary.
 - Write a function that will take two lists as parameters - a list of first names and a list of surnames. The function will return a dictionary that has first names as keys and corresponding surnames as values. Eg. for lists \["Jane", "Edgar Allan", "Lev"\] and \["Austen", "Poe", "Tolstoy"\] it will return dictionary \{"Jane" : "Austen", "Edgar Allan" : "Poe", "Lev" : "Tolstoy" \}
@@ -18,5 +19,20 @@
   - milk: 1
   - cheese: 2
  
+#### Set (množina)
+- What are sets? What are the operations on them?
+- For reference you can look here: https://www.w3schools.com/python/python_sets.asp
+- What is the difference between sets and lists?
+- From the list of items in previous exercise make a set of unique items in the fridge.
+
+#### References (odkazy)
+- Look at this code a think what it will print:
+```
+a = [1, 2, 3]
+b = a
+b[0] = 54
+print(a)
+print(b)
+```
 
  
