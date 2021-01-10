@@ -1,8 +1,8 @@
 ### Příklad vstupu a výstupu pro úlohu Ježíškův poštovní software
 **Input**
 
-3
-Max
+3\
+Max\
 2
 kniha
 arduino
