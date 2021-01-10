@@ -62,6 +62,7 @@
 - Ježíšek dostává každoročně spoustu dopisů od dětí s jejich přáními. Ježíškovi pomocníci je stíhají roztřídit jen taktak před Vánoci. Ježíšek se proto rozhodl pořídit si na dopisy třídící software. Protože se jeho pomocníci budou muset zaškolit v jeho používání, je nejvyšší čas začít programovat.
 - Napište program na třídění vánočních přání. Na vstupu dostanete číslo N - počet dopisů. Na následujících řádcích budou vypsány dopisy v předzpracované formě. Pro každý dopis dostanete na zvláštních řádcích jméno dítěte, číslo K (počet dárků, které si přeje) a na následujících K řádcích výčet dárků.
 - Vaším úkolem je vypsat pro Ježíška všechny druhy dárků, které se v dopisech vyskytly, aby věděl, které dárky má vyrábět.
+- Zamyslete se nad hezkou funkční dekompozicí.
 - Příklad vstupu a výstupu je ve zvláštním souboru.
 - **Deadline** 24. 1. 2021 23:59
 
