@@ -15,7 +15,7 @@ Viktor\
 3\
 ponozky\
 arduino\
-rouska\
+rouska
 
 **Output**
 
@@ -23,4 +23,4 @@ kniha\
 telefon\
 arduino\
 ponozky\
-rouska\
+rouska
