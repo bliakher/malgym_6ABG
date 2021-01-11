@@ -82,4 +82,8 @@
 - opakování - funkce
 - další datové struktury - seznam, množina - příklady
 
-
+#### 15. hodina - 11. 1. 2021 - OH
+- práce ve skupinkách
+- funkční dekomposice
+- slovníky, množiny
+- reference
