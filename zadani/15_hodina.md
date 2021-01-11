@@ -2,6 +2,8 @@
 
 *Look at the exercices, work together with your group to discuss and solve them. Try to come up with the solution by yourself, if you don't know, you can consult code from previouse lessons or the internet. If you are stuck, you can skip to the next task.*
 
+Finish all tasks first, then return to optional ones
+
 #### Dictionary (slovník), function decomposition
 - For reference you can look here: https://www.w3schools.com/python/python_dictionaries.asp
 - Imagine you have a list of all items in your fridge where some items can repeat eg. \["egg", "egg", "milk", "cheese", "egg", "cheese" \]. Write a function that will take that list and print quantities of all items like this (hint: use a dictionary):
@@ -10,6 +12,7 @@
   - cheese: 2
 - Rewrite your fridge program so that saving quantities to dictionary is separated from printing results from dictionary.
 - Change the fridge program so the list of items in the fridge is read from user input. Think about nice function decomposition.
+- Optional: change the fridge program so that it prints only the product that has the most items in the fridge.
 
 #### Set (množina)
 - What are sets? What are the operations on them?
