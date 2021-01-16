@@ -66,3 +66,13 @@
 - Příklad vstupu a výstupu je ve zvláštním souboru.
 - **Deadline** 24. 1. 2021 23:59
 
+### BONUS: Nemám dost bodů - 7 bodů
+**Možnost 1: Stromeček**
+- Napiš funkci, která pro zadané číslo N vypíše N-patrový stromeček z hvězdiček. Příklad pro N = 4:
+   *
+  ***
+ *****
+*******
+**Možnost 2:**
+- Napiš nějaký hezký program, kterým mi ukážeš, že si zasloužíš jedničku :-) Nejlépe by měl obsahovat slovníky nebo množiny a být hezky rozdělený do funkcí. Může to být nějaký jednoduchý algoritmus, nebo může třeba něco hezkého "vykreslovat" (jako stromeček v možnosti 1).
+
