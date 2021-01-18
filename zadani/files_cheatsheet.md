@@ -47,4 +47,9 @@ f.write("I can write to file.")
 ``` python
 f.close()
 ```
+- or use with construct - you don't have to close the file:
+``` python
+with open("a.txt", 'r') as f:
+  f.read()
+```
 
