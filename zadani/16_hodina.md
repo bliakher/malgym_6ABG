@@ -35,3 +35,8 @@ f.write("The best text!")
 f = open(b.txt, 'w')
 ```
 - try reading from one file and writing the contents to another file, check that the resulting files are the same
+
+
+#### File as input
+- take the fridge task from the last time 
+- instead of reading fridge list from input try reading it from file
