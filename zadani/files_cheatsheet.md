@@ -16,10 +16,10 @@ f = open(filename, mode)
 #### File names
 ```
 main_directory
-|   main.py
-|   a.txt
-|---inner_directory
-    |   b.txt
+|--- main.py
+|--- a.txt
+|--- inner_directory
+    |--- b.txt
     
 ```
 
