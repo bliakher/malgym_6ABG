@@ -26,8 +26,26 @@ f.write("The best text!") # this adds new text at the end
 
 a = open("a.txt", 'r')
 b = open("b.txt", 'w')
+
 content_a = f.read()
 b.write(content_a)
+
 a.close()
 b.close()
+
+# or
+
+a = open("a.txt", 'r')
+b = open("b.txt", 'w')
+
+for line in a.readlines():
+  b.write(line)
+  
+a.close()
+b.close()
+  
+
+
+
+
 
