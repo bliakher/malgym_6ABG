@@ -13,5 +13,25 @@ f = open(filename, mode)
   - "w" - Write - Opens a file for writing, creates the file if it does not exist
   - "a" - Append - Opens a file for appending, creates the file if it does not exist
 
+#### Reading
+``` python
+content = f.read() # reads whole file
+part = f.read(10) # reads 10 chars - letters
+line = f.readline() # reads 1 line
 
+# looping through lines of file
+for line in f.readlines():
+  print(line)
+```
+
+#### Writing
+``` python
+f.write("I can write to file.")
+```
+
+#### Closing
+- always close the file after using it
+``` python
+f.close()
+```
 
