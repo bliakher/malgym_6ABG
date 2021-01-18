@@ -5,6 +5,7 @@
 - write some text into the file on multiple lines
 - now using python, read the content of the file
 - try reading the file by one line and by one character
+- create another file in a folder - to read it you can use relative path from the main.py file
 
 #### Writing to files
 - work with the same file
