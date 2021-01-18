@@ -28,3 +28,9 @@ f = open(a.txt, 'a')
 f.write("The best text!") # this adds new text at the end
 ```
 </details>
+
+- try creating a file with 
+``` python
+f = open(b.txt, 'w')
+```
+- try reading from one file and writing the contents to another file, check that the resulting files are the same
