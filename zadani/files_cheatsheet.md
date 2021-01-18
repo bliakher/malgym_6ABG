@@ -22,6 +22,9 @@ main_directory
     |--- b.txt
     
 ```
+- file names relative to main.py:
+  - "a.txt"
+  - "inner_directory/b.txt"
 
 #### Reading
 ``` python
