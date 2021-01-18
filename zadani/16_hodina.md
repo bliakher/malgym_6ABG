@@ -18,7 +18,7 @@ f = open(a.txt, 'a')
 f.write("The best text!")
 ```
 - first think about it, then try in replit
-  - <details>
+  <details>
   <summary>Explanation - spoiler</summary>
 
   ``` python
