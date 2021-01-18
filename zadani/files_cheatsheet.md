@@ -19,7 +19,7 @@ main_directory
 |--- main.py
 |--- a.txt
 |--- inner_directory
-    |--- b.txt
+     |--- b.txt
     
 ```
 - file names relative to main.py:
