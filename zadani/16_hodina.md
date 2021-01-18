@@ -19,13 +19,12 @@ f.write("The best text!")
 - first think about it, then try in replit
 <details>
 <summary>Explanation - spoiler</summary>
-``` python
-f = open(a.txt, 'w')
-f.write("The best text!") # this rewrites the whole file with new text
+  ``` python
+  f = open(a.txt, 'w')
+  f.write("The best text!") # this rewrites the whole file with new text
 
-f = open(a.txt, 'a')
-f.write("The best text!") # this adds new text at the end
-
-```
+  f = open(a.txt, 'a')
+  f.write("The best text!") # this adds new text at the end
+  ```
 
 </details>
