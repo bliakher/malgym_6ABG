@@ -12,6 +12,16 @@ f = open(filename, mode)
   - "r" - Read - Default value. Opens a file for reading, error if the file does not exist
   - "w" - Write - Opens a file for writing, creates the file if it does not exist
   - "a" - Append - Opens a file for appending, creates the file if it does not exist
+  
+#### File names
+```
+main_directory
+|   main.py
+|   a.txt
+|---inner_directory
+    |   b.txt
+    
+```
 
 #### Reading
 ``` python
