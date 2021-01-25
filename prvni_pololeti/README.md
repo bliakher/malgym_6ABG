@@ -87,3 +87,11 @@
 - funkční dekomposice
 - slovníky, množiny
 - reference
+
+#### 16. hodina - 18. 1. 2021 - OH
+- práce se soubory
+
+#### 17. hodina - 25. 1. 2021 - OH
+- anketa o předmětu
+- diskuze, shrnutí pololetí
+
