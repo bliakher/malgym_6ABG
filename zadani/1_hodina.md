@@ -30,3 +30,17 @@ print(string.strip()) # --> "hello"
 string = ".....,.,hello,,,.."
 print(string.split(",.")) # --> "hello"
 ```
+
+### Working with files
+- let's look in the cheatsheet and remind ourselves about files
+
+### Group task
+- Work in groups, together write a solution to the task below. Every one in the team should understand the solution. Afterwards, we will come all together and each team will present their solution. From each team the person that wrote the least amount of code should present.
+
+#### Number of words
+- Considering an input file vstup.txt determine the number of the words contained in this file. Write total sum of the words into standard output.
+-  A word is the maximal continuous interval of characters distinct from the space-character located on one line. Two words are separated by (at least one) space-character.
+- At the beginning (of the line) or at its end no space-characters are necessary (i.e., they may be there but also they do not need to be there).
+- Don't forget to sensibly divide your code into functions.
+
+
