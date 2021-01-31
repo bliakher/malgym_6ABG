@@ -14,4 +14,10 @@ print(str(a) + str(b) + str(c))
 - string is like array of letters: ``` "hello"[0] --> "h" ```
 - slicing: ``` "hello"[1:3] --> "el" ```
 - concatenation: ``` "a" + "b" --> "ab" ```
+- split(deliminator) - splits string to parts separated by deliminator, returns them as array
+``` python
+string = "a,b,c,d"
+parts = string.split(',')
+# parts --> ["a", "b", "c", "d"]
+```
 
