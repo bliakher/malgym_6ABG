@@ -20,4 +20,4 @@
   - bonusové body za aktivitu
 
 ### Co jsme dělali?
-#### 1.hodina - 1. 2. 2021 - OH
+#### 1. hodina - 1. 2. 2021 - OH
