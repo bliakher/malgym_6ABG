@@ -20,4 +20,13 @@ string = "a,b,c,d"
 parts = string.split(',')
 # parts --> ["a", "b", "c", "d"]
 ```
+- strip(chars) - removes leading and trailing characters of a string
+``` python
+string = "      hello  "
+# without arguments it trims whitespaces
+print(string.strip()) # --> "hello"
 
+# you can specify caracters to trim
+string = ".....,.,hello,,,.."
+print(string.split(",.")) # --> "hello"
+```
