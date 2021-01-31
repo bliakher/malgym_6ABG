@@ -11,5 +11,7 @@ print(str(a) + str(b) + str(c))
 ```
 
 ### Usefull functions with strings
+- string is like array of letters: ``` "hello"[0] --> "h" ```
+- slicing: ``` "hello"[1:3] --> "el" ```
 - concatenation: ``` "a" + "b" --> "ab" ```
 
