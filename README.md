@@ -21,3 +21,6 @@
 
 ### Co jsme dělali?
 #### 1. hodina - 1. 2. 2021 - OH
+- práce se soubory
+- počet slov v souboru
+
