@@ -38,4 +38,3 @@ print("Number of words", len(words))
 # whole file can't fit to RAM - we need to read it by parts
 # by lines or even by one character
 
-
