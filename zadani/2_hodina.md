@@ -19,3 +19,8 @@ Identify these whitespace characters:
   - Unix - LF
   - some other - CR
 - text files can be incompatible between OS
+
+### Number of words
+
+- solutions from last time
+- what to do with large files?
