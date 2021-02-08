@@ -11,7 +11,8 @@
 Věta na jednom řádku!
 Věta na
 dvou řádcích.
+Věta?
 ..?
 ```
-- Výstupem bude 2
+- Výstupem bude 3
 - **Deadline** 20. 02. 2021 23:59
