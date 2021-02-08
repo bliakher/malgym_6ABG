@@ -31,7 +31,7 @@ with open("vstup.txt", "r") as f:
     line = line.strip()   # strip the end of line (\n) character
     words = line.split()
     words_count += len(words) # number of words in one line
-print("Number of words", len(words))    
+print("Number of words", words_count)    
 
 # what if file is very long? ------------------
 
