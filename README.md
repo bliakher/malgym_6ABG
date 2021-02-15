@@ -24,3 +24,10 @@
 - práce se soubory
 - počet slov v souboru
 
+#### 2. hodina - 8. 2. 2021 - OH
+- počet slov v souboru
+
+#### 3. hodina - 15. 2. 2021 - SP + OH
+- časová složitost - opakování
+- třídění - úvod
+- algoritmy - SelectSort, InsertSort, BubbleSort
