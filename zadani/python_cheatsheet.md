@@ -7,25 +7,42 @@
 #    body of cycle
  
 i = 0
-while i < 10:
+while i < 4:
   print(i)
   i += 1
 
+# -> 0, 1, 2, 3
 ```
 
 - for
 ``` python
-# for element in someting_iterable:
-#     body of cycle
-
 # for variable in range(number):
 #     body of cycle
 
+for i in range(4):
+  print(i)
+
+
+# -> 0, 1, 2, 3
+
 # for variable in range(min, max, step):
 #     body of cycle
-
-for i in range(10):
+  
+for i in range(2, 9, 2):
   print(i)
+  
+# -> 2, 4, 6, 8
+
+# for element in someting_iterable:
+#     body of cycle
+
+# strings or arrays are iterable
+
+s = "abc"
+for letter in s:
+  print(letter)
+
+# -> a, b, c
 ```
 
 ### Arrays
