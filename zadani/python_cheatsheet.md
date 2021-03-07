@@ -112,13 +112,18 @@ for element in numbers:
 # implicit for can't change array
 # change only with index
 # increase all values in numbers array by one
+numbers = [1, 2, 3, 4]
 
 i = 0
 while i < len(numbers):
   numbers[i] += 1
   
+# or
+
 for i in range(numbers):
   numbers[i] += 1
+
+# result -> numbers = [2, 3, 4, 5]
 
 ```
 
