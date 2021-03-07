@@ -40,7 +40,7 @@ array = [1, "abc", True, 1.4]
   - order of an element in array
   - we count from 0
   - first element in array has index 0, second has index 1..
-- accessing element by index
+- accessing element by index:
 ``` python 
 numbers = [1, 2, 3, 4]
 first = numbers[0]  # 1
@@ -48,6 +48,19 @@ second = numbers[1] # 2
 
 idx = 2
 element_at_idx = numbers[idx] # 3
+```
+- change element at index:
+``` python
+numbers = [1, 2, 3, 4]
+numbers[2] = 42 
+# -> numbers = [1, 2, 42, 4]
+```
+- append - add new element at the end:
+``` python 
+numbers = [1, 2, 3, 4]
+a = 5
+numbers.append(a)
+# -> numbers = [1, 2, 3, 4, 5]
 ```
 - length of array = number of elements
 ``` python
