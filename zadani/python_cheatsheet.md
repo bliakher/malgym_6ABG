@@ -22,7 +22,6 @@ while i < 4:
 for i in range(4):
   print(i)
 
-
 # -> 0, 1, 2, 3
 
 # for variable in range(min, max, step):
