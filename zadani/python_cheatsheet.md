@@ -83,3 +83,43 @@ numbers.append(a)
 numbers = [1, 2, 3, 4]
 length = len(numbers) # 4
 ```
+
+### Arrays and cycles
+
+- we often need to access elements of array one by one
+- we can use cycles to do it
+- we use index to access elements - index is changed in cycle -> different elements
+``` python
+numbers = [1, 2, 3, 4]
+
+# print all elements
+# while cycle
+index = 0
+while index < len(numbers):
+  current_element = numbers[index]
+  print(current_element)
+  index += 1
+
+# for cycle - with index
+for index in range(len(numbers)):
+  current_element = numbers[index]
+  print(current_element)
+  
+# for cycle - implicit
+for element in numbers:
+  print(element)
+
+# implicit for can't change array
+# change only with index
+# increase all values in numbers array by one
+
+i = 0
+while i < len(numbers):
+  numbers[i] += 1
+  
+for i in range(numbers):
+  numbers[i] += 1
+
+```
+
+
