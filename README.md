@@ -31,3 +31,7 @@
 - časová složitost - opakování
 - třídění - úvod
 - algoritmy - SelectSort, InsertSort, BubbleSort
+
+#### 4. hodina - 22. 2. 2021 - OH
+- řešení domácího úkolu
+- BubbleSort
