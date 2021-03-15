@@ -32,6 +32,7 @@ Věta?
 - Složitější hry:
   - ruleta
   - vyšší karta
+  - blackjack
 
 
  
