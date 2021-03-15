@@ -32,6 +32,6 @@ Věta?
 - Složitější hry:
   - ruleta
   - vyšší karta
-- **Deadline** 27. 3. 2021 23:59
+
 
  
