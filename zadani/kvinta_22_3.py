@@ -64,5 +64,16 @@ def name_girl():
     name = rnd.choice(girl_names)
     print('Name:', name)
   
+# menu part --------------------------------------------------------
+
+def gender_choosing():
+  child_gender = input("Choose your prefered gender (male/female): ")
+
+  if child_gender == "male":
+    name_boy()
+  elif child_gender == "female":
+    name_girl()
+  print(f"You have chosen to name a {child_gender}")
+
 
 
