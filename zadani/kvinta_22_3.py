@@ -50,3 +50,19 @@ def name_boy():
 
 result = name_boy()
 print(result)
+
+# girl naming part ----------------------------------------------
+
+def name_girl():
+  import random as rnd
+
+  girl_names = ["Marie", "Jana", "Eva", "Hana", "Sofie", "Ema", "Julie", "Anna", "Tereza"]
+ 
+  name = rnd.choice(girl_names)
+  print('Name:', name)
+  while input('Is this name good (y/n) ').lower() != 'y':
+    name = rnd.choice(girl_names)
+    print('Name:', name)
+  
+
+
