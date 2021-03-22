@@ -17,7 +17,7 @@ Věta?
 - Výstupem bude 3
 - **Deadline** 20. 2. 2021 23:59
 
-#### 2. Casino - 1.část - 7 bodů
+#### 2. Casino - 1.část - 8 bodů
 - Cílem je vytvořit hru, která bude simulovat jednoduché sázecí hry. 
 - Úkol bude rozložený do několika částí.
 - Jak bude hra vypadat - uživatel přijde do kasina a dostane přidělenou nějakou částku (bank), ze které může sázet.
@@ -33,6 +33,6 @@ Věta?
   - ruleta
   - vyšší karta
   - blackjack
-
+- **Deadline** 4. 4. 2021 23:59
 
  
