@@ -67,13 +67,16 @@ def name_girl():
 # menu part --------------------------------------------------------
 
 def gender_choosing():
-  child_gender = input("Choose your prefered gender (male/female): ")
+  answer = input("Do you want to name a child? [yes/no]")
+  while answer == "yes":
+      child_gender = input("Choose your prefered gender (male/female): ")
 
-  if child_gender == "male":
-    name_boy()
-  elif child_gender == "female":
-    name_girl()
-  print(f"You have chosen to name a {child_gender}")
+      if child_gender == "male":
+        name_boy()
+      elif child_gender == "female":
+        name_girl()
+      print(f"You have chosen to name a {child_gender}")
+      answer = input("Do you want to name a child? [yes/no]")
 
 
 
