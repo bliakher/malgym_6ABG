@@ -35,3 +35,21 @@
 #### 4. hodina - 22. 2. 2021 - OH
 - řešení domácího úkolu
 - BubbleSort
+
+#### 5. hodina - 8. 3. 2021 - OH
+- opakování, procvičování
+- datové typy v Pythonu
+- podmínky, cykly, pole
+
+#### 6. hodina - 15. 3. 2021 - OH
+- procvičování
+- generování náhody - knihovna random
+- funkce sleep - knihovna time
+
+#### 7. hodina - 22. 3. 2021 - OH
+- práce ve skupinách
+- vytváření aplikace - výběr jmen
+
+#### 8. hodina - 29. 3. 2021 - OH
+- opakování
+- práce na projektu - casino
