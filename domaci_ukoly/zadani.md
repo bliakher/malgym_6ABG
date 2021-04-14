@@ -35,4 +35,22 @@ Věta?
   - blackjack
 - **Deadline** 4. 4. 2021 23:59
 
- 
+#### 2. Casino - 2.část - 8 bodů
+- Ve druhé části zapracujte do svého casina moje připomínky k první části a vytvořte druhou hru.
+- Dodržte prosím strukturu hry - hlavní menu - vybery hru - můžu ji hrát kolikrát chci - odejdu ze hry a vrátím se opět do menu.
+- Druhá hra by měla být o něco komplikovanější než ta první - nestačí hod mincí nebo hod kostkou.
+- Pokud si nebudete jistí složitostí svého nápadu nebo bude potřebovat pomoct, **nebojte se mi napsat**.
+- Nápady na hry:
+  - ruleta (s možností sázky na barvu - červené/černá)
+  - vyšší karta
+  - blackjack
+  - ruská ruleta
+  - hádání čísla 
+    - počítač mi říká, jestli je hádané číslo větší nebo menší než můj tip 
+    - můžu sázet např. na počet hádání, které budu potřebovat
+  - více hodů mincí
+    - uživatel tipuje nějakou posloupnost hodů např. 0100
+    - casino hodí mincí tolikrát (v příkladu 4krát) - kontroluje, jestli se shoduje s tipem
+    - výhra může být za přesnou shodu, za počet shod, ...
+  - vaše vlastní nápady, představivosti se meze nekladou
+- **Deadline** 24. 4. 2021 23:59
