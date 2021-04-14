@@ -35,7 +35,7 @@ Věta?
   - blackjack
 - **Deadline** 4. 4. 2021 23:59
 
-#### 2. Casino - 2.část - 8 bodů
+#### 3. Casino - 2.část - 8 bodů
 - Ve druhé části zapracujte do svého casina moje připomínky k první části a vytvořte druhou hru.
 - Dodržte prosím strukturu hry - hlavní menu - vybery hru - můžu ji hrát kolikrát chci - odejdu ze hry a vrátím se opět do menu.
 - Druhá hra by měla být o něco komplikovanější než ta první - nestačí hod mincí nebo hod kostkou.
