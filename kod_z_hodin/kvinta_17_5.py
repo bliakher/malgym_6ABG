@@ -115,8 +115,15 @@ def cif_souc(n):
 
 print(cif_souc(123))
 
+# rekurzivne
 
-    
+def ciferny(cislo, soucet = 0):
+    if cislo == 0:
+        print(soucet)
+    else:
+        ciferny(cislo // 10, soucet + cislo % 10)
+
+ciferny(1234, 0)
     
 
 
