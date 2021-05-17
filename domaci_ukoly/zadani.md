@@ -54,3 +54,7 @@ Věta?
     - výhra může být za přesnou shodu, za počet shod, ...
   - vaše vlastní nápady, představivosti se meze nekladou
 - **Deadline** 24. 4. 2021 23:59
+
+### 4. Rekurze - součet prvků v poli - 7 bodů
+- Napište rekurzivní funkci, která vezme pole čísel a vrátí součet všech prvků pole.
+- **Deadline** 30. 5. 2021 23:59
