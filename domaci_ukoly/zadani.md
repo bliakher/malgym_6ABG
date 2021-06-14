@@ -58,3 +58,11 @@ Věta?
 ### 4. Rekurze - součet prvků v poli - 7 bodů
 - Napište rekurzivní funkci, která vezme pole čísel a vrátí součet všech prvků pole.
 - **Deadline** 30. 5. 2021 23:59
+
+### BONUS: Bakaláři - 6 bodů
+- Programujeme zjednodušenou kontrolu docházky pro bakaláře.
+- Naše docházka - pole jmen studentů, kteří byli na hodině.
+- např. pritomni = ["Michal K", "Max K", "Nikola H"]
+- Učitel zadá do našeho prgramu jméno studenta a my mu odpovíme, jestli tento student byl na hodině.
+- např. pokud učitel zadá "Nikola H", odpovíme "Přítomen", pokud zadá "Julie T", odpovíme "Nepřítomen"
+- **Deadline** 20. 6. 2021 23:59
