@@ -3,7 +3,7 @@
 ### Základní informace
 - Žeňa Golubeva
 - golubeva.evgenia@malgym.cz
-- kabinet 10 - pondělí
+- kabinet 10 - pátek
 - konzultace po domluvě - email
 
 ### Klasifikace
@@ -20,36 +20,6 @@
   - bonusové body za aktivitu
 
 ### Co jsme dělali?
-#### 1. hodina - 1. 2. 2021 - OH
-- práce se soubory
-- počet slov v souboru
-
-#### 2. hodina - 8. 2. 2021 - OH
-- počet slov v souboru
-
-#### 3. hodina - 15. 2. 2021 - SP + OH
-- časová složitost - opakování
-- třídění - úvod
-- algoritmy - SelectSort, InsertSort, BubbleSort
-
-#### 4. hodina - 22. 2. 2021 - OH
-- řešení domácího úkolu
-- BubbleSort
-
-#### 5. hodina - 8. 3. 2021 - OH
-- opakování, procvičování
-- datové typy v Pythonu
-- podmínky, cykly, pole
-
-#### 6. hodina - 15. 3. 2021 - OH
+#### 1. hodina - 3. 9. 2021
+- přípomenutí minulého roku
 - procvičování
-- generování náhody - knihovna random
-- funkce sleep - knihovna time
-
-#### 7. hodina - 22. 3. 2021 - OH
-- práce ve skupinách
-- vytváření aplikace - výběr jmen
-
-#### 8. hodina - 29. 3. 2021 - OH
-- opakování
-- práce na projektu - casino
