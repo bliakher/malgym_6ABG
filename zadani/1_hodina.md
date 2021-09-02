@@ -11,20 +11,20 @@ Vstup do hory je skrytý, je možné ho otevřít pouze po splnění 3 podmínek
 - ozve se drozd
 
 Naštěstí si trpaslíci na pomoc najali hobita programátora, který jim problém pomůže vyřešit.
-Napište program, který od trpaslíků získá informace o tom, co se děje (jaký je den, jací ptáci zpívají atd.), 
+Napiš program, který od trpaslíků získá informace o tom, co se děje (jaký je den, jací ptáci zpívají atd.), 
 a na základě toho odpoví, jestli se můžou dostat do hory.
 
 ### Sláva vítězům, čest poraženým
 
-Sláva! Vstup do hory se povedlo otevřít. Pomozte trpaslíkům to oslavit. 
-Zjisttěte, kolik trpaslíků se původně vydalo na cestu a kolik z nich úspěšně dorazilo.
-Všem, komu se to povedlo, vypište blahopřání. Těm, kteří neuspěli, vzdejte hold.
+Sláva! Vstup do hory se povedlo otevřít. Pomoz trpaslíkům to oslavit. 
+Zjisti, kolik trpaslíků se původně vydalo na cestu a kolik z nich úspěšně dorazilo.
+Všem, komu se to povedlo, vypiš blahopřání. Těm, kteří neuspěli, vzdej hold.
 
 ### Rozdělení pokladu
 
 Po získání pokladu ho bude potřeba rozdělit mezi trpaslíky.
 Největší díl samozřejmě dostane nejváženější - nejstarší - trpaslík.
-Od všech trpaslíků zjistěte, kolik jim je let a vypište věk nejstaršího trpaslíka.
+Od všech trpaslíků zjisti, kolik jim je let a vypiš věk nejstaršího trpaslíka.
 
 Mezi trpaslíky je taky velmi vážený ten, kdo má nejdelší jméno. Z dokladů trpaslíků jsi si sestavil seznam jmen.
 ``` python
@@ -38,6 +38,6 @@ Trpaslíci jsou konečně pány svého bohatství. Ale kolik toho vlastně získ
 Trpaslíci používají k placení bankovky zvané trpasličí koruny. Poklad je ale velmi starý, proto je složený ze zlatých mincí a diamantů.
 Na trpasličí koruny ho budou moct směnit u směnárníka. Kurz směnárníka je 2 zlaté mince a 1 diamant za 1 korunu.
 
-Přepočítejte poklad (poklad.txt), spočítejte zlaté mince (O) a diamanty (X) a řekněte trpaslíkům, kolik korun získají z pokladu.
+Přepočítej poklad (poklad.txt), spočítej zlaté mince (O) a diamanty (X) a řekni trpaslíkům, kolik korun získají z pokladu.
 
 
