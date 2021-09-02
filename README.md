@@ -1,4 +1,4 @@
-# Programování 5.ABG - Úvod do programování
+# Programování 6.ABG - Programování II
 
 ### Základní informace
 - Žeňa Golubeva
