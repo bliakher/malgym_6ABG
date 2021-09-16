@@ -13,3 +13,23 @@ Napište program, který pro libovolný rodokmen vypíše počet babiččiných 
 
 Do rodokmenu jste doplnili ke každé osobě i její věk. Vzorový rodokmen je v souboru `rodokmen_vek.txt`
 Vypište jméno nejmladšího muže v rodině.
+
+### Páry
+
+
+### Reklama
+
+Firma na výrobu nafukovacích balónků by ráda zvýšila svoje zisky pomocí propagace vlastních produktů. Jenže ne u všech výrobků se reklama vyplatí. Pomozte firmě vybrat produkty, pro které má objednat reklamu.
+Pro každý produkt dostanete:
+- zisk s reklamou,
+- zisk bez reklamy,
+- cenu reklamy.
+
+Pro každý produkt rozhodněte, zda se reklama vyplatí, a vypište buď:
+- REKLAMU, pokud ano, nebo
+- NE REKLAMU, v opačném případě.
+Jedna z možností bude vždy výhodnější.
+
+Na prvním řádku vstupního souboru je číslo T - počet produktů, o kterých musíte rozhodnout.
+Následuje T řádků se třemi přirozenými čísly – zisk s reklamou, zisk bez reklamy, cena reklamy, v tomto pořadí.
+
