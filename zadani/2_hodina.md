@@ -47,7 +47,7 @@ REKLAMU
 
 Testový vstup:
 ```
-
+10
 4090 4003 15
 120 100 30
 550 550 3
@@ -63,7 +63,6 @@ Testový vstup:
 
 <details>
 <summary>Výstup (na zkontrolování):</summary>
-```
 REKLAMU
 NE REKLAMU
 NE REKLAMU
@@ -74,5 +73,5 @@ REKLAMU
 NE REKLAMU
 NE REKLAMU
 REKLAMU
-```
+
 </details>
