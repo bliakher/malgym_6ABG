@@ -33,3 +33,46 @@ Jedna z možností bude vždy výhodnější.
 Na prvním řádku vstupního souboru je číslo T - počet produktů, o kterých musíte rozhodnout.
 Následuje T řádků se třemi přirozenými čísly – zisk s reklamou, zisk bez reklamy, cena reklamy, v tomto pořadí.
 
+Ukázkový vstup:
+```
+2
+100 90 60
+50 30 10
+```
+Ukázkový výstup:
+```
+NE REKLAMU
+REKLAMU
+```
+
+Testový vstup:
+```
+
+4090 4003 15
+120 100 30
+550 550 3
+1225 998 105
+125 90 40
+4376 3875 370
+65 25 35
+5000 4870 305
+3000 4050 50
+700 654 33
+
+```
+
+<details>
+<summary>Výstup (na zkontrolování):</summary>
+```
+REKLAMU
+NE REKLAMU
+NE REKLAMU
+REKLAMU
+NE REKLAMU
+REKLAMU
+REKLAMU
+NE REKLAMU
+NE REKLAMU
+REKLAMU
+```
+</details>
