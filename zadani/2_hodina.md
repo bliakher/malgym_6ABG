@@ -14,8 +14,6 @@ Napište program, který pro libovolný rodokmen vypíše počet babiččiných 
 Do rodokmenu jste doplnili ke každé osobě i její věk. Vzorový rodokmen je v souboru `rodokmen_vek.txt`
 Vypište jméno nejmladšího muže v rodině.
 
-### Páry
-
 
 ### Reklama
 
