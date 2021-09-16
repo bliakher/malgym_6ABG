@@ -64,7 +64,9 @@ Testový vstup:
 <details>
 <summary>Výstup (na zkontrolování):</summary>
 REKLAMU
+  
 NE REKLAMU
+
 NE REKLAMU
 REKLAMU
 NE REKLAMU
