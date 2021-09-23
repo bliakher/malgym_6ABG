@@ -32,5 +32,17 @@ Zamysli se, jestli je efektivnější počítat n-té fibonacciho číslo rekurz
   
   V případě fibonacciho čísel je rekurzivní způsob velmi neefektivní, i když je elegantní.
   
-  
 </details>
+
+### Fibonacci - Project Euler
+
+Tohle je druhá úloha z Project Euler. https://projecteuler.net
+Je to stránka se spoustou zajímavých úloh. Úlohy začínají u velmi jednoduchých a postupně se ztěžují. Velmi doporučuju se na ně podívat.
+
+#### Úloha
+
+Spočtěte sumu všech sudých čísel z fibonacciho posloupnosti, která jsou menší než 4 miliony.
+
+
+
+
