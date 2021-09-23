@@ -42,6 +42,7 @@ Je to stránka se spoustou zajímavých úloh. Úlohy začínají u velmi jednod
 #### Úloha
 
 Spočtěte sumu všech sudých čísel z fibonacciho posloupnosti, která jsou menší než 4 miliony.
+Výsledek můžete pro kontrolu rovnou zadat na web Project Euleru, nebo ho řekněte mně a já vám řeknu, jestli to máte správně.
 
 
 
