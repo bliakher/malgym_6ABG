@@ -23,3 +23,11 @@
 #### 1. hodina - 3. 9. 2021
 - přípomenutí minulého roku
 - procvičování
+
+#### 2. hodina - 17. 9. 2021
+- procvičování - čtení ze souboru, cykly
+
+#### 3. hodina - 24. 9. 2021
+- test
+- procvičování - funkce, rekurze
+
