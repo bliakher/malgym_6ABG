@@ -28,6 +28,10 @@
 - procvičování - čtení ze souboru, cykly
 
 #### 3. hodina - 24. 9. 2021
-- test
+- test - faktoriál
 - procvičování - funkce, rekurze
+
+#### 4. hodina - 1. 10. 2021
+- test
+- procvičování - dictionary
 
