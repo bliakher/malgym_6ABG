@@ -14,6 +14,7 @@
 2) vypis vsechna sudá cisla v poli
 3) vypis vsechna cisla na sudych pozicich v poli
 4) vypis prvky pole v opacnem poradi 
+5) najdi maximum v poli
 
 - podivej se na for cyklus
 - ruzne moznosti funkce range()
