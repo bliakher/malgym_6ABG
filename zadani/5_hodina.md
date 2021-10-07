@@ -1,3 +1,5 @@
+# 5. hodina - 8. 10. 2021
+
 ``` python
 word = str(input()) 
 
