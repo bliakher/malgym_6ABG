@@ -1,6 +1,6 @@
 # 5. hodina - 8. 10. 2021
 
-Co vytiskne prvni print? A druhý print?
+Co vytiskne první print? A druhý print?
 ``` python
 x = 5
 
@@ -15,29 +15,11 @@ print(x)
 
 ```
 
-
-
-
-Co vypíše následující kód?
-``` python
-x = 5
-
-def funkce2(x):
-    print(x)
-    
-print(x)
-
-funkce2(7)
-
-```
-
-
-
 Co vypíše následující kód?
 ``` python
 x = 6
 
-def funkce3():
+def funkce2():
     print(x)
     
 funkce3()
@@ -48,11 +30,23 @@ funkce3()
 
 A tohle?
 ``` python
-def funkce4():
+def funkce3():
     x = 8
     
 print(x)
 
+```
+
+Jaká 2 čísla se vypíšou?
+``` python
+x = 5
+
+def funkce4(x):
+    print(x)
+    
+print(x)
+
+funkce2(7)
 
 ```
 
