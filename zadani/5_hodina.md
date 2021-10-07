@@ -46,7 +46,7 @@ def funkce4(x):
     
 print(x)
 
-funkce2(7)
+funkce4(7)
 
 ```
 
