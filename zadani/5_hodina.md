@@ -2,7 +2,6 @@
 
 ``` python
 word = str(input()) 
-
 letter = str(input()) 
 
 count = 0 
