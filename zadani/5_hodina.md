@@ -22,7 +22,7 @@ x = 6
 def funkce2():
     print(x)
     
-funkce3()
+funkce2()
 
 
 ```
