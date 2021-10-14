@@ -78,7 +78,7 @@ vypis_vysledek()
 
 ### Moje chyba
 
-Zkus vymyslet krátký program,ve kterém je nějaká chyba.
+Zkus vymyslet krátký program, ve kterém je nějaká chyba.
 Odevzdej do připraveného zadání v Teams.
 Tvůj program pak zveřejním na gitu a ostatní se budou snažit chybu odhalit.
 
