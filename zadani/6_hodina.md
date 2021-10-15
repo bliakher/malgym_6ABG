@@ -15,7 +15,7 @@ def count_letter2(word, substring):
     b += 1 
   return substring_count 
 
-print(count_letter("abrakadabraka", "ab")) 
+print(count_letter2("bbbb", "bbb")) 
 
 ```
 
