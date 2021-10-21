@@ -35,3 +35,14 @@
 - test
 - procvičování - dictionary
 
+#### 5. hodina - 8. 10. 2021
+- procvičování funkcí
+- global / local scope
+
+#### 6. hodina - 15. 10. 2021
+- test - obrácení pole
+- VS - práce s IDE, krokování
+
+#### 7. hodina - 22. 10. 2021
+- krokování, hledání chyb
+
