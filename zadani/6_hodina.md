@@ -1,4 +1,18 @@
-# 6. hodina - 15. 10. 2021
+# 6. a 7.hodina - 15. 10. 2021, 22. 10. 2021
+
+### Zanoření
+
+Zkuste krokovat následující kód s breakpointem nastaveným na řádku s voláním funkce. 
+Jaký je rozdíl, pokud budu krokovat s přeskočením (F10) nebo s vnořením (F11)?
+
+``` python
+def cyklus(pole):
+  for prvek in pole:
+    print(prvek)
+    
+cyklus([1, 2, 3, 4]) # breakpoint tady
+
+```
 
 ### Podřetězce ve slově
 
