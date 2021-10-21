@@ -24,7 +24,7 @@ Napište program, který nejdřív načte pole ze vstupního souborů v následu
 - **Deadline** 7. 10. 2021 23:59
 
 
-#### 2. Krokování - 6 bodů
+#### 2. Krokování - 5 bodů
 - Podívejte se na následující kód:
 ``` python
 for i in range(3, 5):
