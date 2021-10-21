@@ -64,7 +64,7 @@ def faktorial(x):
     global vysledek
     for i in range(1, x + 1):
         vysledek *= i
-    print("Faktrial", x, "je", vysledek)
+    print("Faktorial", x, "je", vysledek)
 
 def vypis_vysledek():
     print("Tady je vysledek:")
