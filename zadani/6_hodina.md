@@ -159,7 +159,17 @@ cislo = int(input("cislo: "))
 moc = int(input("mocnina: "))
 print(mocnina(cislo, moc))
 ```
-####
+#### Julča S.
+``` python
+# pocet pismen ve slove
+
+pocet_pismen = 0
+slovo = input("vlozte slovo: ")
+for i in slovo:
+    pocet_pismen =+ 1
+
+print(f"Pocet pismen je {pocet_pismen}")
+```
 
 
 
