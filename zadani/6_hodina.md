@@ -98,12 +98,13 @@ Tvůj program pak zveřejním na gitu a ostatní se budou snažit chybu odhalit.
 
 #### Gio
 ``` python
-def soucet_cisel_do_deseti(nasobek, cislo):
+# Vypise nasobky cisla (1. az 10. nasobek)
+def vypsani_nasobku(nasobek, cislo):
     while nasobek <= 10:
         cislo = cislo * nasobek
         nasobek += 1
    
-soucet_cisel_do_deseti(1, 5)
+vypsani_nasobku(1, 5)
 ```
 
 
