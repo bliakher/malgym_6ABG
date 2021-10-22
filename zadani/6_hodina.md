@@ -106,6 +106,47 @@ def vypsani_nasobku(nasobek, cislo):
    
 vypsani_nasobku(1, 5)
 ```
+#### Ondra
+``` python
+def ds (fe ,ba=[] ):
+    """
+    program ma vzit 'fe' a (pripadne) 'ba'
+    pridat prvky obraceneho pole 'fe' do 'ba'
+    vratit druhou pulku ba pripojenou na zacatek prvni pulky 'ba'
+    """
+    gd =len
+    ba.extend (reversed(fe ))
+    return(ba[gd   (ba) //2:])+ba[: gd(ba) //2]
+
+# ls = [i for i in range(10)]
+# print(ds(ls))
+# print(ds(ls, [-1,-2,-3]))
+# print(ds(ls))
+# print(ds(ls))
+```
+#### Viktor
+``` python
+"program vypíše počet dvojic stejných čísel v A a B" 
+
+A = [5, 17, 10, 5, 5, 1, 2, 7] 
+B = [1, 5, 17, 17, 2, 10, 10] 
+couples = 0 
+A.sort() 
+B.sort() 
+while len(A) != 0 and len(B) !=0: 
+    if A[0] == B[0]: 
+        couples = couples + 1 
+        A.pop(0) 
+        B.pop(0) 
+    if len(A) != 0 and len(B) !=0 and A[0] > B[0]: 
+        A.pop(0) 
+    if len(A) != 0 and len(B) !=0 and A[0] < B[0]: 
+        B.pop(0) 
+
+print(couples)   
+
+
+```
 
 
 
