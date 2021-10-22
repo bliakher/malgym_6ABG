@@ -214,5 +214,20 @@ def rekurzefaktorial(num):
     return factorial_num
 print(rekurzefaktorial(4))
 ```
+#### Matěj
+``` python
 
+#program ma brat cisla a rikat jestli jsou delitelna dvema a trema
+
+while True:
+    x = int(input("napis sem cislo: "))
+    if x % 2 = 0 and x % 3 = 0:
+        print(x,"je delitelne dvema i trema")
+    elif x % 2 = 0 and x % 3 != 0:
+        print(x,"je delitelne dvema ale trema ne")
+    elif x % 2 != 0 and x % 3 = 0:
+        print(x,"je delitelne trema ale dvema ne")
+    else:
+        print(x,"neni delitelne ani dvema ani trema")
+```
 
