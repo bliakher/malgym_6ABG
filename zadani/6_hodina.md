@@ -144,10 +144,22 @@ while len(A) != 0 and len(B) !=0:
         B.pop(0) 
 
 print(couples)   
-
-
 ```
+#### Lucka a Teo
+``` python
+#program ma vypocitat mocninu (cislo umocnene na moc)
 
+def mocnina(x, n):
+    vysledek = 1
+    for i in range(n):
+        vysledek = x*x
+    return vysledek
+
+cislo = int(input("cislo: "))
+moc = int(input("mocnina: "))
+print(mocnina(cislo, moc))
+```
+####
 
 
 
