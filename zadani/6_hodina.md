@@ -170,6 +170,40 @@ for i in slovo:
 
 print(f"Pocet pismen je {pocet_pismen}")
 ```
+#### Max
+``` python
+###Code checks if a user's password contains a number
+
+password = input("Type password:")
+def password_checker(password):
+  HasNum = False
+  for i in password:
+    if i.isdigit():
+      HasNum = True
+
+
+number_check = password_checker(password)
+
+if number_check == True:
+  print("password contains a number")
+else:
+  print("password does not contain a number")
+```
+#### Michal
+``` python
+#Vypisuje Fibonacciho posloupnost do cisla limit.
+
+def fibonacci(prvni, druhe, limit):
+    print(prvni)
+    print(druhe)
+    while druhe < limit:
+        soucet = prvni + druhe
+        print(soucet)
+        druhe = soucet
+        prvni = druhe
+
+fibonacci(1, 2, 500)
+```
 
 
 
