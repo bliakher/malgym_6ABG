@@ -252,3 +252,22 @@ def obratit(pole):
 print(obratit([1, 2, 3, 4, 3]))
 #program ma obratit pole
 ```
+#### Jana
+``` python
+# function substracts num [b] from num [a] when [a] is bigger than [b] + prints it
+
+def function ():
+    while True:
+        user_inp = int(input("Write num [a]"))
+        b = input("Write num [b]")
+
+        if a > b:
+           print(a - b)
+           break
+
+        else:
+            print("[a] must have a greater value than [b]")
+            continue
+            
+print(function())
+```
