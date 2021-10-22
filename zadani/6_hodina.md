@@ -204,6 +204,15 @@ def fibonacci(prvni, druhe, limit):
 
 fibonacci(1, 2, 500)
 ```
-
+#### Filip
+``` python
+def rekurzefaktorial(num):
+    factorial_num = 0
+    if num>=0:
+        factorial_num = num * rekurzefaktorial(num-1)
+        
+    return factorial_num
+print(rekurzefaktorial(4))
+```
 
 
