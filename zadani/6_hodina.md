@@ -145,7 +145,7 @@ while len(A) != 0 and len(B) !=0:
 
 print(couples)   
 ```
-#### Lucka a Teo
+#### Lucka
 ``` python
 #program ma vypocitat mocninu (cislo umocnene na moc)
 
@@ -230,4 +230,25 @@ while True:
     else:
         print(x,"neni delitelne ani dvema ani trema")
 ```
+#### Kryštof
+``` python
+koruny = 0
+eura = int(input("zadej počet euro: "))
+def prevod(eura):
+    koruny = eura * 25,63 
+    print(koruny, "czk")
+prevod(eura)
 
+"místo desetinné čárky v kurzu eura je normální čárka"
+```
+#### Teo
+``` python
+def obratit(pole):
+    druhepole = []
+    for i in range(len(pole), 0, -1):
+        druhepole.append(i)
+    return druhepole
+
+print(obratit([1, 2, 3, 4, 3]))
+#program ma obratit pole
+```
