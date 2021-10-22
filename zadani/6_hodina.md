@@ -232,6 +232,7 @@ while True:
 ```
 #### Kryštof
 ``` python
+# prevod eur na koruny
 koruny = 0
 eura = int(input("zadej počet euro: "))
 def prevod(eura):
@@ -239,7 +240,6 @@ def prevod(eura):
     print(koruny, "czk")
 prevod(eura)
 
-"místo desetinné čárky v kurzu eura je normální čárka"
 ```
 #### Teo
 ``` python
