@@ -96,6 +96,16 @@ Zkus vymyslet krátký program, ve kterém je nějaká chyba.
 Odevzdej do připraveného zadání v Teams.
 Tvůj program pak zveřejním na gitu a ostatní se budou snažit chybu odhalit.
 
+#### Gio
+``` python
+def soucet_cisel_do_deseti(nasobek, cislo):
+    while nasobek <= 10:
+        cislo = cislo * nasobek
+        nasobek += 1
+   
+soucet_cisel_do_deseti(1, 5)
+```
+
 
 
 
