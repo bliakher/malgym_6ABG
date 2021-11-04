@@ -51,11 +51,11 @@ image = pygame.image.load("01_image.png")
 - vykreslení na obrazovku - pozice od levého horního rohu
 
 ```python
-screen.blit(image, (50,50))
+screen.blit(image, (50,50)) # (50, 50) souradnice (x, y)
 ```
 - aby se projevila změna obrazovky, musíme provést update obrazovky:
 ```python
-pygame.display.flip()
+pygame.display.update()
 ```
 
 - škálování obrázku
@@ -68,8 +68,43 @@ pygame.display.flip()
 screen.fill((r,g,b))
 ```
 
-### *1. úkol*
+### 1. úkol
 *Vykreslit dva obrázky u sebe - napozicovat do kompozice - a vybarvit pozadí. Např. pes s kloboukem na hlavě, člověk s koštětem v ruce..*
 *Obrázky se postupně vrství na sebe podle pořadí v kódu. Zkuste najít obrázky v png s půhledným pozadím a menší velikosti.*
 
 ![cat with ball](https://user-images.githubusercontent.com/44325210/140406440-5e9cf7f0-8e0c-485f-8a95-abe0debdd779.png)
+
+
+### Pohyb
+
+- pohyb - mění se pozice obrázku - překreslujeme obrázek na posunuté pozici
+- proměnné pro pozici obrázku a o kolik ho chceme posouvat
+
+```python
+# define the position of the image
+xpos = 50
+ypos = 50
+# how many pixels we move our image each frame
+step_x = 1
+step_y = 1
+```
+
+- vykreslení obrázku přesuneme dovnitř cyklu
+- k poloze přičteme step - posun za jeden frame
+- load nám stačí udělat pouze jednou
+
+- **problém** obrázek se posouvá, ale zůstává tam vykreslený i starý obrázek
+![Screenshot 2021-11-04 at 20 42 53](https://user-images.githubusercontent.com/44325210/140408918-73f64ffe-658f-4a2c-8b74-98198f8673ff.png)
+
+- **řešení** než obrázek překreslíme na nové poloze, musíme vymazat obrazovku:
+```python
+# erase by repainting background over everything
+screen.fill((200, 255, 200))
+```
+
+### 2. úkol
+*Udělat jednoduchou animaci, kdy obrázek začne u levého okraje obrazovky a bude se pohybovat doprava, dokud nenarazí na pravý okraj, tam se zastaví*
+
+### 3. úkol
+*Upravit animaci tak, aby se obrázek odrážel ze strany na stranu*
+
