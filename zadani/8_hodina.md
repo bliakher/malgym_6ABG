@@ -11,3 +11,20 @@ def reverse(a):
 a = [1, 2, 3, 4, 5]
 print(reverse(a, b))
 ```
+
+
+``` python
+
+array = [1, 2, 3 ]
+rev_array = []
+x = len(array) - 1
+
+def reverse(array, rev_array, x):
+    for i in range(len(array)):
+        if x > -1:
+            rev_array.append(array[x])
+            x = x - 1
+            print(rev_array)
+
+reverse(array, rev_array, x)
+```
