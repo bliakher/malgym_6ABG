@@ -53,9 +53,22 @@ image = pygame.image.load("01_image.png")
 ```python
 screen.blit(image, (50,50))
 ```
-- aby se projevila změna obrazovky, musíme provést update obrazovky
-
+- aby se projevila změna obrazovky, musíme provést update obrazovky:
 ```python
 pygame.display.flip()
 ```
+
+- barva pozadí pomocí RGB kódu:
+```python
+screen.fill((r,g,b))
+```
+
+### *1. úkol*
+*Vykreslit dva obrázky u sebe - napozicovat do kompozice - a vybarvit pozadí. Např. pes s kloboukem na hlavě, člověk s koštětem v ruce..*
+*Obrázky se postupně vrství na sebe podle pořadí v kó
+du. Zkuste najít obrázky v png s půhledným pozadím a menší velikosti.*
+
+![cat with ball](https://user-images.githubusercontent.com/44325210/140406028-54dcd1b0-060b-4754-a19c-69eb79ff6ccb.png)
+
+
 
