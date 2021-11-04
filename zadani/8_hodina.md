@@ -109,3 +109,8 @@ screen.fill((200, 255, 200))
 ### 3. úkol
 *Upravit animaci tak, aby se obrázek odrážel ze strany na stranu*
 
+### 4. úkol
+*Udělat animaci míčku, který se odráží od všech stěn*
+
+![Screenshot 2021-11-04 at 21 01 00](https://user-images.githubusercontent.com/44325210/140411495-6bebd89f-2d96-4f20-a1f2-9d1ed7fad170.png)
+
