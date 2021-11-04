@@ -1,3 +1,5 @@
+### Ukázka 1
+
 ``` python
 
 def reverse(a):
@@ -12,6 +14,7 @@ a = [1, 2, 3, 4, 5]
 print(reverse(a, b))
 ```
 
+### Ukázka 2
 
 ``` python
 
@@ -28,6 +31,8 @@ def reverse(array, rev_array, x):
 
 reverse(array, rev_array, x)
 ```
+
+### Ukázka 3
 
 ```python
 def reverse(array):
