@@ -28,3 +28,13 @@ def reverse(array, rev_array, x):
 
 reverse(array, rev_array, x)
 ```
+
+```python
+def reverse(array):
+    reversed = []
+    for i in range(len(array), 0, -1):
+        reversed.append(i)
+    return reversed
+
+print(reverse([1, 2, 3, 4, 5]))
+```
