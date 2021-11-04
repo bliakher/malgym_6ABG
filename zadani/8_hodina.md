@@ -39,3 +39,23 @@ def main():
 
 main()
 ```
+
+### Nakreslení obrázku
+
+- stáhnout obrázek - do složky s kódem
+- nahrát obrázek do programu:
+```python
+image = pygame.image.load("01_image.png")
+```
+
+- vykreslení na obrazovku - pozice od levého horního rohu
+
+```python
+screen.blit(image, (50,50))
+```
+- aby se projevila změna obrazovky, musíme provést update obrazovky
+
+```python
+pygame.display.flip()
+```
+
