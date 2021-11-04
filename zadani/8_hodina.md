@@ -94,6 +94,7 @@ step_y = 1
 - load nám stačí udělat pouze jednou
 
 - **problém** obrázek se posouvá, ale zůstává tam vykreslený i starý obrázek
+
 ![Screenshot 2021-11-04 at 20 42 53](https://user-images.githubusercontent.com/44325210/140408918-73f64ffe-658f-4a2c-8b74-98198f8673ff.png)
 
 - **řešení** než obrázek překreslíme na nové poloze, musíme vymazat obrazovku:
