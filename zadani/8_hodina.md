@@ -58,6 +58,11 @@ screen.blit(image, (50,50))
 pygame.display.flip()
 ```
 
+- škálování obrázku
+```python
+
+```
+
 - barva pozadí pomocí RGB kódu:
 ```python
 screen.fill((r,g,b))
@@ -65,10 +70,6 @@ screen.fill((r,g,b))
 
 ### *1. úkol*
 *Vykreslit dva obrázky u sebe - napozicovat do kompozice - a vybarvit pozadí. Např. pes s kloboukem na hlavě, člověk s koštětem v ruce..*
-*Obrázky se postupně vrství na sebe podle pořadí v kó
-du. Zkuste najít obrázky v png s půhledným pozadím a menší velikosti.*
+*Obrázky se postupně vrství na sebe podle pořadí v kódu. Zkuste najít obrázky v png s půhledným pozadím a menší velikosti.*
 
-![cat with ball](https://user-images.githubusercontent.com/44325210/140406028-54dcd1b0-060b-4754-a19c-69eb79ff6ccb.png)
-
-
-
+![cat with ball](https://user-images.githubusercontent.com/44325210/140406440-5e9cf7f0-8e0c-485f-8a95-abe0debdd779.png)
