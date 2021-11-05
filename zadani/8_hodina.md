@@ -60,7 +60,7 @@ pygame.display.update()
 
 - škálování obrázku
 ```python
-
+image = pygame.transform.scale(image, (50, 50)) # (50, 50) - vysledne rozmery v pixelech
 ```
 
 - barva pozadí pomocí RGB kódu:
