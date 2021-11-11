@@ -50,3 +50,7 @@
 - pygame - instalace, úvod
 - vykreslení obrázků
 
+#### 9. hodina - 12. 11. 2021
+- pygame - animace pomocí obrázků
+
+
