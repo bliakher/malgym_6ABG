@@ -46,3 +46,7 @@
 #### 7. hodina - 22. 10. 2021
 - krokování, hledání chyb
 
+#### 8. hodina - 5. 11. 2021
+- pygame - instalace, úvod
+- vykreslení obrázků
+
