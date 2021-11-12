@@ -1,3 +1,6 @@
+## Replit
+- odevzdávat stažený soubor, ne odkaz na repl
+
 ## Ukázka 1
 
 ``` python
