@@ -67,6 +67,7 @@ pygame.draw.circle(surface, color, center, radius, width=0)
 ### 1. úkol
 
 *Nakreslete prsten a půlměsíc*
+
 ![Screenshot 2021-11-25 at 19 21 59](https://user-images.githubusercontent.com/44325210/143487609-d4a264af-3bb0-4199-af88-344f999ed25d.png)
 
 
