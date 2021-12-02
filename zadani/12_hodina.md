@@ -25,3 +25,5 @@ beige = pygame.Color(244, 226, 198)
 
 ### Úloha 2
 *K domečku chceme dokreslit plot. Plot je tvořený stejnými laťkami. Chceme ho nakreslit tak, aniž bychom specifikovali umístění každé konkrétní laťky - parametrizovaně.*
+
+![Screenshot 2021-12-02 at 13 42 51](https://user-images.githubusercontent.com/44325210/144424176-6a19bcae-d812-4de9-be21-6f121456d6f5.png)
