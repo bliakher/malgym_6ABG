@@ -18,9 +18,10 @@ beige = pygame.Color(244, 226, 198)
 ![Screenshot 2021-12-02 at 13 23 32](https://user-images.githubusercontent.com/44325210/144421264-bee1a4fc-325a-45e1-9a38-5c6c9ae08b71.png)
 
 
-- parametrizované kreslení:
-  - neříkáme přesně, na kterých souřadnicích se má kreslit
-  - souřadnice se odvozují ne od počátku ale od nějakého dodaného bodu
+### Parametrizované kreslení:
+- neříkáme přesně, na kterých souřadnicích se má kreslit
+- souřadnice se odvozují ne od počátku, ale od nějakého dodaného bodu
+- využijeme, když chceme stejný objekt kreslit opakovaně - např. pohyb
 
 ### Úloha 2
 *K domečku chceme dokreslit plot. Plot je tvořený stejnými laťkami. Chceme ho nakreslit tak, aniž bychom specifikovali umístění každé konkrétní laťky - parametrizovaně.*
