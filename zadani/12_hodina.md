@@ -31,3 +31,4 @@ beige = pygame.Color(244, 226, 198)
 - postup:
   1) napsat funkci, která nakreslí lať plotu dané šířky a výšky na nějaké pozici
   2) napsat funkci, která nakreslí plot dané šířky pomocí opakovaného kreslení latí
+  3) přidat horizontální prkno, které spojuje latě
