@@ -8,8 +8,12 @@ black = pygame.Color(0,0,0)
 yellow = pygame.Color(255, 255, 0)
 white = pygame.Color(255, 255, 255)
 brown = pygame.Color(101, 67, 33)
+dark_brown = pygame.Color(56, 37, 14)
 red = pygame.Color(255, 0, 0)
 beige = pygame.Color(244, 226, 198)
+blue = pygame.Color(0, 0, 255)
+light_blue = pygame.Color(200, 200, 255)
+grey = pygame.Color(220, 220, 220)
 ```
 
 ### Úloha 1
