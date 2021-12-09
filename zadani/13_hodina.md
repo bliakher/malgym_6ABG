@@ -22,6 +22,8 @@
 *Na dolním okraji obrazovky vytoříme Santovy saně. Chceme vytvořit hru, ve které se Santa musí vyhnout padajícím sněhovým koulím. 
 Přidáme možnost ovládat saně. Pomocí tlačítek šipek bude možné pohybovat se saněmi doleva a doprava.*
 
+![Screenshot 2021-12-09 at 15 13 35](https://user-images.githubusercontent.com/44325210/145412227-d06ba9de-2dcd-4a81-be42-333cca3963f6.png)
+
 ### Detekce zmáčknutí tlačítka
 
 - zmačknutí tlačítka uživatelem vyvolá událost - *event*
