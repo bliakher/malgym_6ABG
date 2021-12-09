@@ -56,6 +56,17 @@ for event in pygame.event.get():
 - názvy kláves - šipky: `pygame.K_LEFT` a `pygame.K_RIGHT`
 
 
+## Kolize
+
+### Úloha 3
+*Pokud se Santa nezvládne sněhové kouli vyhnout, saně vybuchnou a hra skončí. 
+Abychom poznali, že koule do saní narazila, potřebujeme dodělat kolize.*
+
+![Screenshot 2021-12-09 at 15 22 54](https://user-images.githubusercontent.com/44325210/145413968-100ed028-7100-4ed9-ba4c-e620ebc3df14.png)
+
+- pro každou sněhovou kouli potřebujeme zkontrolovat, že se nedostala do obdélníku, uvnitř kterého se nachází saně
+- když dojde k nárazu, ukončíme hru
+
 
 
 
