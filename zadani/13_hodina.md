@@ -16,6 +16,13 @@
 - v každém snímku projdeme pole a updatujeme polohu všech vloček
 - poté je nakreslíme - opět projdeme pole a pro každou polohu zavoláme kreslící funkci
 
+``` python
+import random
+
+random.randint(min, max)
+random.random()
+```
+
 ## Interakce s uživatelem
 
 ### Úloha 2
