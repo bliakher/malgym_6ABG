@@ -32,3 +32,7 @@ if pressed[pygame.K_LEFT]:
   # do something
 ```
 
+#### Úloha 1
+*Napište jednoduchou hru. Postavička začíná na levé straně obrazovky. Když hráč zmáčkne pravou šipku, začne se pohybovat doprava a zastaví se, až když hráč pustí šipku. Když dojede na druhou stranu, hra končí.*
+
+
