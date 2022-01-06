@@ -1,14 +1,14 @@
 # 15.hodina - 7. 1. 2022
 
-## Práce s tlačítky
+## Práce s klávesami
 
-### Detekce zmáčknutí tlačítka
+### Detekce zmáčknutí klávesy
 
 2 způsoby:
 
 **KEYDOWN event**
-- podívám se, jestli nastal event (událost) zmáčknutí tlačítka
-- jestli ano, podívám se, jestli tlačítko, které mě zajímá bylo zmáčknuté
+- podívám se, jestli nastal event (událost) zmáčknutí klávesy
+- jestli ano, podívám se, jestli klávesa, která mě zajímá byla zmáčknutá
 
 ```python
 # get all events
@@ -20,9 +20,9 @@ for event in pygame.event.get():
           # do something
 ```
 
-**všechna zmáčknutá tlačítka**
-- získám všechna zmáčknutá tlačítka - nemusí být žádná
-- podívám se, jestli je mezi nimi tlačítko, které mě zajímá
+**všechny zmáčknuté klávesy**
+- získám všechny zmáčknuté klávesy - nemusí být žádná
+- podívám se, jestli je mezi nimi klávesa, která mě zajímá
 
 ``` python
 # get all keys pressed at the moment
@@ -35,10 +35,10 @@ if pressed[pygame.K_LEFT]:
 #### Úloha 1
 *Napište jednoduchou "hru". Postavička začíná na levé straně obrazovky. Pokaždé, když hráč zmáčkne pravou šipku, pohne se o kousek doprava. Když dojede na druhou stranu, hra končí.*
 
-### Detekce puštěného tlačítka
+### Detekce puštěné klávesy
 
 **KEYUP event**
-- podívám se, jestli nastal event (událost) puštění tlačítka
+- podívám se, jestli nastal event (událost) puštění klávesy
 - jestli ano, podívám se, jestli tlačítko, které mě zajímá bylo puštěné
 
 ```python
@@ -51,10 +51,10 @@ for event in pygame.event.get():
           # do something
 ```
 
-**všechna zmáčknutá tlačítka**
-- pamatuji si, že tlačítko bylo předtím zmáčknuté
-- podívám se na všechna zmáčknutá tlačítka
-- pokud mezi nimi moje tlačítko už není, pak bylo puštěné
+**všechny zmáčknuté klávesy**
+- pamatuji si, že klávesa byla předtím zmáčknutá
+- podívám se na všechny zmáčknuté klávesy
+- pokud mezi nimi moje klávesa už není, pak byla puštěna
 
 
 #### Úloha 2
