@@ -1,14 +1,5 @@
 # 13.hodina - 10. 12. 2021
 
-### replit
-
-Lucka - https://replit.com/join/szwwkbcfqb-bliakher
-
-Filip - https://replit.com/join/mkeunqwaqd-bliakher
-
-
-
-
 ## Generování objektů
 
 ### Úloha 1
