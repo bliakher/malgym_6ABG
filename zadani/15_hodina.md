@@ -33,6 +33,31 @@ if pressed[pygame.K_LEFT]:
 ```
 
 #### Úloha 1
-*Napište jednoduchou hru. Postavička začíná na levé straně obrazovky. Když hráč zmáčkne pravou šipku, začne se pohybovat doprava a zastaví se, až když hráč pustí šipku. Když dojede na druhou stranu, hra končí.*
+*Napište jednoduchou "hru". Postavička začíná na levé straně obrazovky. Pokaždé, když hráč zmáčkne pravou šipku, pohne se o kousek doprava. Když dojede na druhou stranu, hra končí.*
+
+### Detekce puštěného tlačítka
+
+**KEYUP event**
+- podívám se, jestli nastal event (událost) puštění tlačítka
+- jestli ano, podívám se, jestli tlačítko, které mě zajímá bylo puštěné
+
+```python
+# get all events
+for event in pygame.event.get():   
+    # check for any key down events
+    if event.type == pygame.KEYUP:
+        # check for specific key
+        if event.key == pygame.K_LEFT:
+          # do something
+```
+
+**všechna zmáčknutá tlačítka**
+- pamatuji si, že tlačítko bylo předtím zmáčknuté
+- podívám se na všechna zmáčknutá tlačítka
+- pokud mezi nimi moje tlačítko už není, pak bylo puštěné
+
+
+#### Úloha 2
+*Napište jednoduchou "hru". Postavička začíná na levé straně obrazovky. Když hráč zmáčkne pravou šipku, začne se pohybovat doprava a zastaví se, až když hráč pustí šipku. Když dojede na druhou stranu, hra končí.*
 
 
