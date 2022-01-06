@@ -59,5 +59,6 @@ for event in pygame.event.get():
 
 #### Úloha 2
 *Napište jednoduchou "hru". Postavička začíná na levé straně obrazovky. Když hráč zmáčkne pravou šipku, začne se pohybovat doprava a zastaví se, až když hráč pustí šipku. Když dojede na druhou stranu, hra končí.*
+*Použijte oba způsoby detekce kláves.*
 
 
