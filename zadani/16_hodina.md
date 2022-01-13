@@ -2,7 +2,7 @@
 
 ## Text na obrazovce
 
-1) **inicializace konkrétního fontu:**
+**1) inicializace konkrétního fontu:**
 - objekt `Font`
 ``` python
 font = pygame.font.SysFont(name, size) -> Font
@@ -31,7 +31,7 @@ font = pygame.font.SysFont(['freesans', 'dejavusans'], 24)
 SysFont(name, size, bold=False, italic=False)
 ```
 
-2) **vyrenderování textu do fontu:**
+**2) vyrenderování textu do fontu:**
 - zkombinujeme písmena a font a vytvoříme "obrázek", který můžeme nakreslit na obrazovku
 - použijeme funkci `render`, která vytvoří "obrázek" - něco, na co můžeme použít `screen.blit()`
 ``` python
@@ -45,7 +45,7 @@ img = font.render('hello', True, black) # černé písmo na bílém pozadí
 
 - můžeme přidat barevné pozadí pomocí parametru `background`
 
-3) **vykreslíme vyenderovaný font**
+**3) vykreslíme vyenderovaný font**
 - vyrenderovaný font můžeme nyní nakreslit stejně jako jiné obrázky
 ``` python
 screen.blit(img, (20, 20))
