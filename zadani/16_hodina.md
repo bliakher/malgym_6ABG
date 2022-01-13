@@ -64,16 +64,17 @@ Zkuste změnit barvu a barvu pozadí. Zkuste kurzívu a tučné písmo.*
 ### Úkol 3
 
 *Ke stejné hře přidejte měření času - jak dlouho trvalo, než se povedlo dostat míček na druhou stranu.
-Můžete využít funkce z [pygame.time](https://www.pygame.org/docs/ref/time.html)*
+Můžete využít funkce z [pygame.time](https://www.pygame.org/docs/ref/time.html).*
+
+### Úkol 4
 
 *Udělejte jednoduchý časovač.
-Po spuštění aplikace nechte uživatele zadat počet vteřin do konzole*
+Po spuštění aplikace nechte uživatele zadat čas do konzole - např. počet minut a vteřin.
+Opět využijte pygame.time - zobrazujte, jak čas plynule ubývá.
+Když čas dojde, zastavte odpočítávání a signalizujte konec. Můžete například změnit barvu pozadí.*
 
 
 
-``` python
-
-```
 
 
 
