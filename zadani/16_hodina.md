@@ -51,6 +51,26 @@ img = font.render('hello', True, black) # černé písmo na bílém pozadí
 screen.blit(img, (20, 20))
 ```
 
+### Úkol 1
+
+*Nejdřív zkuste zobrazit nějaký text v defaultním fontu. Pak zaexperimentujte s fonty. 
+Nechte si vypsat, jaké fonty jsou podporované a vyzkoušejte je.
+Zkuste změnit barvu a barvu pozadí. Zkuste kurzívu a tučné písmo.*
+
+### Úkol 2
+
+*K první hře z minula - míček se pohne zleva doprava, když zmáčkneme šipku, dokud nedorazí na druhý konec - přidejte zobrazování vzdálenosti od levého okraje.*
+
+### Úkol 3
+
+*Ke stejné hře přidejte měření času - jak dlouho trvalo, než se povedlo dostat míček na druhou stranu.
+Můžete využít funkce z [pygame.time](https://www.pygame.org/docs/ref/time.html)*
+
+*Udělejte jednoduchý časovač.
+Po spuštění aplikace nechte uživatele zadat počet vteřin do konzole*
+
+
+
 ``` python
 
 ```
