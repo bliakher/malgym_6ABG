@@ -1,4 +1,4 @@
-# 15.hodina - 7. 1. 2022
+# 16.hodina - 14. 1. 2022
 
 ## Text na obrazovce
 
