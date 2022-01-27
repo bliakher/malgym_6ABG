@@ -27,7 +27,7 @@ for event in pygame.event.get():
 
 ### Úloha 1
 
-*Naprogramujte hru, kde můžeme myší ovládat pohybující se objekt, např. míček. Míček je na začátku ve středu obrazovky a nehýbe se. Když klikneme na nějaké místo na obrazovce, míček se začne pohybovat směrem k místu na které jsme klikli, dokud k němu nedojede, pak se zastaví. Pokud v průběhu pohybu míčku klikneme na jiné místo, míček změní směr. Udělejte nejdřív jednodušší verzi, kdy se míček pohybuje pouze po ose x.*
+*Naprogramujte hru, kde můžeme myší ovládat pohybující se objekt, např. míček. Míček je na začátku ve středu obrazovky a nehýbe se. Když klikneme na nějaké místo na obrazovce, míček se začne pohybovat směrem k místu na které jsme klikli, dokud k němu nedojede, pak se zastaví. Pokud v průběhu pohybu míčku klikneme na jiné místo, míček změní směr. Udělejte nejdřív jednodušší verzi, kdy se míček pohybuje pouze po ose x, tedy vodorovně.*
 
 ### Úloha 2
 
