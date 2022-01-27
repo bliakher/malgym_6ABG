@@ -31,7 +31,7 @@ for event in pygame.event.get():
 
 ### Úloha 2
 
-*Upravte hru tak, aby se m94 pohyboval po ose x i y a zastavil se přesně na místě, na které jsme klikli. Míček by se měl pohybovat konstantní rychlostí.*
+*Upravte hru tak, aby se míč pohyboval po ose x i y a zastavil se přesně na místě, na které jsme klikli. Míček by se měl pohybovat konstantní rychlostí.*
 
 ### Úloha 3
 
