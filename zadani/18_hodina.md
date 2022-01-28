@@ -33,6 +33,8 @@ for event in pygame.event.get():
 
 *Upravte hru tak, aby se míč pohyboval po ose x i y a zastavil se přesně na místě, na které jsme klikli. Míček by se měl pohybovat konstantní rychlostí.*
 
+Řešení [tady](https://github.com/bliakher/malgym_6ABG/blob/master/kod_z_hodin/sexta_28_1.py)
+
 ### Úloha 3
 
 *Napište aplikaci, ve které bude možné rozsvícet a zhasínat žárovku kliknutím na tlačítko.*
