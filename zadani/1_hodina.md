@@ -78,5 +78,24 @@ studenti = ["Matej", "Tlapak", 6, 28, "Lucie", "Hockova", 6, 30]
 
 - nejlepší řešení - objekty
 
+- definice třídy Student:
+```python
+class Student:
+  def __init__(self, name, surname, grade, points):
+    self.name = name
+    self.surname = surname
+    self.grade = grade
+    self.points = points
+    
+```
 
+- použití:
+```python
+student = Student("Matej", "Tlapak", 6, 28)
+
+print(student.name)
+print(student.surname)
+print("Je v " + str(student.grade) + ".rocniku a ma, student.points, "bodu")
+    
+```
 
