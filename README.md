@@ -20,37 +20,6 @@
   - bonusové body za aktivitu
 
 ### Co jsme dělali?
-#### 1. hodina - 3. 9. 2021
-- přípomenutí minulého roku
-- procvičování
-
-#### 2. hodina - 17. 9. 2021
-- procvičování - čtení ze souboru, cykly
-
-#### 3. hodina - 24. 9. 2021
-- test - faktoriál
-- procvičování - funkce, rekurze
-
-#### 4. hodina - 1. 10. 2021
-- test
-- procvičování - dictionary
-
-#### 5. hodina - 8. 10. 2021
-- procvičování funkcí
-- global / local scope
-
-#### 6. hodina - 15. 10. 2021
-- test - obrácení pole
-- VS - práce s IDE, krokování
-
-#### 7. hodina - 22. 10. 2021
-- krokování, hledání chyb
-
-#### 8. hodina - 5. 11. 2021
-- pygame - instalace, úvod
-- vykreslení obrázků
-
-#### 9. hodina - 12. 11. 2021
-- pygame - animace pomocí obrázků
-
+#### 1. hodina - 11. 2. 2022
+- objekty - úvod
 
