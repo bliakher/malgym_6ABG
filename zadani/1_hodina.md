@@ -99,3 +99,11 @@ print("Je v " + str(student.grade) + ".rocniku a ma, student.points, "bodu")
     
 ```
 
+### Úkol 1
+*Napište funkci, která dostane studenta a maximální počet bodů a vypíše, jestli student získá zápočet (tedy má alespoň 50% z maximálního počtu bodů).*
+
+### Úkol 2
+*Vytvořte si pole několika studentů. Najděte studenta, který je z nich v nejvyšším ročníku.*
+
+### Úkol 3
+*Na stejném poli studentů spočítejte průměrný počet bodů.*
