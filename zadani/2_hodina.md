@@ -4,39 +4,53 @@
 
 ### Opakování pojmů
 
-- třída
-
+- **třída**
 ```python
 class ClassName:
   pass
 ```
 
-- objekt
-
+- **objekt**
 ```python
 object = ClassName()
 ```
-- datová položka / atribut / vlastnost
-
+- **datová položka / atribut / vlastnost**
 ```python
 class ClassName:
   data1 = 1
   data2 = 2
   
-class MathConst:
+class MathConsts:
   pi = 3.141565
   e = 2.718281
   sqrt2 = 1.414213
   
-constants = MathConts()
-print("pi is", constant.pi)
-print("e is", constant.e)
-print("Square root of 2 is", constant.sqrt2)
+constants = MathConsts()
+print("pi is", constants.pi)
+print("e is", constants.e)
+print("Square root of 2 is", constants.sqrt2)
 ```
-- konstruktor
+- všechny objekty třídy `MathConsts` budou mít stejné hodnoty datových položek
+- **statická data** - stejná pro všechny objekty typu
+- hodí se mít i nestatická data - data, která se pro každý objekt můžou lišit
 
+- **konstruktor** - naplní nestatické položky daty
 ```python
+class Clovek:
+  klasifikace = "Homo Sapiens" # staticka data, spolecna pro vsechny lidi
+  
+  def __init__(self, jmeno, vek):
+    self.jmeno = jmeno
+    self.vek = vek
 
+anna = Clovek("Anna", 25)
+petr = Clovek("Petr", 20)
 ```
+- Anna a Petr mají odlišná jména a věk, ale mají stejnou klasifikaci
+- použitím `self` říkáme, že `jmeno` a `vek` se mají zapamatovat pro každý objekt zvlášť - patří dannému objektu
+
+### Úkol 1
+*Zkopírujte si definici třídy `Clovek`. Napište funkci s předpisem `vypis_info(clovek)`, která bere jako parametr objekt člověka a vypíše informace o něm (jak se jmenuje a kolik je mu let).*
+
 
 
