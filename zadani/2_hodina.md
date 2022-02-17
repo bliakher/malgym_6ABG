@@ -52,5 +52,10 @@ petr = Clovek("Petr", 20)
 ### Úkol 1
 *Zkopírujte si definici třídy `Clovek`. Napište funkci s předpisem `vypis_info(clovek)`, která bere jako parametr objekt člověka a vypíše informace o něm (jak se jmenuje a kolik je mu let).*
 
+### Úkol 2
+*Napište další funkci `je_dospely(clovek)`, která bere objekt člověka jako parametr a vrátí `True` nebo `False` podle toho, jestli je člověk starší 18 let.*
+
+- teď obě funkce přepíšeme na **metody** třídy `Clovek`
+
 
 
