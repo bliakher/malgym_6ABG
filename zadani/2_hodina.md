@@ -59,6 +59,6 @@ petr = Clovek("Petr", 20)
 
 ### Úkol 3
 1) *Vytvořte vlastní třídu příšery nebo bojovníka, který bude mít vlastnosti: sílu útoku - jak dobře umí útočit, a počet životů (může mít i další - jméno, barvu, zbraň atd.)*
-2) *Přidejte metodu `bojuj(self, utocnik)`, která porovná sílu útoku bojujících - zvítězí ten, kdo má větší. Poražený ztratí jeden život. Po skončení boje metoda vypíše výsledky do konzole.*
+2) *Přidejte metodu `bojuj(self, utocnik)`, která porovná sílu útoku bojujících - zvítězí ten, kdo má větší. Poražený ztratí jeden život, pokud mu už nezůstanou životy, umírá. Po skončení boje metoda vypíše výsledky do konzole.*
 3) *Vytořte několik objektů bojovníků a nechte je spolu bojovat.*
 
