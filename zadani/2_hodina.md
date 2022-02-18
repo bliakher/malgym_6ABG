@@ -21,7 +21,7 @@ class ClassName:
   data2 = 2
   
 class MathConsts:
-  pi = 3.141565
+  pi = 3.141592
   e = 2.718281
   sqrt2 = 1.414213
   
