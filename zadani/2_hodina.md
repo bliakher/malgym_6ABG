@@ -62,3 +62,35 @@ petr = Clovek("Petr", 20)
 2) *Přidejte metodu `bojuj(self, utocnik)`, která porovná sílu útoku bojujících - zvítězí ten, kdo má větší. Poražený ztratí jeden život, pokud mu už nezůstanou životy, umírá. Po skončení boje metoda vypíše výsledky do konzole.*
 3) *Vytořte několik objektů bojovníků a nechte je spolu bojovat.*
 
+**příklad řešení:**
+``` python
+class Monster:
+    def __init__(self, name, power, lives):
+        self.name = name
+        self.power = power
+        self.lives = lives
+
+    def print_status(self):
+        print(self.name + ": " + str(self.lives) + " lives")
+
+    def fight(self, attacker):
+        if self.power == attacker.power:
+            print("It's a draw")
+        elif self.power > attacker.power:
+            attacker.lives -= 1
+            print(self.name , "won")
+        else:
+            self.lives -= 1
+            print(attacker.name, "won")
+
+        print("Current status:")
+        self.print_status()
+        attacker.print_status()
+
+
+ghost = Monster("Casper", 100, 5)
+mummy = Monster("Tutanchamon", 75, 5)
+
+ghost.fight(mummy)
+```
+
