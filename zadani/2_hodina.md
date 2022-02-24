@@ -71,9 +71,19 @@ class Monster:
         self.lives = lives
 
     def print_status(self):
-        print(self.name + ": " + str(self.lives) + " lives")
+        if self.is_dead():
+            print(self.name + ": dead")
+        else:
+            print(self.name + ": " + str(self.lives) + " lives")
+
+    def is_dead(self):
+        return self.lives <= 0
 
     def fight(self, attacker):
+        if self.is_dead() or attacker.is_dead():
+            dead_name = self.name if self.is_dead() else attacker.name
+            print("Cannot fight, " + dead_name + " is dead.")
+            return
         if self.power == attacker.power:
             print("It's a draw")
         elif self.power > attacker.power:
