@@ -1,4 +1,4 @@
-# 3. hodina - 25. 2. 2022
+# 4. hodina - 4. 3. 2022
 
 ## Magické metody
 
