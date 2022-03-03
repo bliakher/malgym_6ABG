@@ -16,7 +16,7 @@ cat = Cat("Udo")
 # zavola se Cat.__new__()
 # pak Cat.__init__("Udo")
 ```
-### __str__()
+### `__str__()`
 - vytisknutí objektu pomocí `print()`
 - zkuste - co se stane?
 ```python
