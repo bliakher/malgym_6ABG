@@ -10,7 +10,7 @@ class Cat:
     self.name = name
 ```
 
-- nikdy je nevoláme přímo pomocí názvu
+- __nikdy__ je nevoláme přímo pomocí názvu
 ```python
 cat = Cat("Udo")
 # zavola se Cat.__new__()
