@@ -103,6 +103,6 @@ print(c)
 - samo o sobě nebude fungovat, `float()` je globální funkce, ne metoda třídy Zlomek a nebere Zlomek jako argument
 - umožníme předefinováním magické metody `__float__()`
 
-### Úkol 2
+### Úkol 3
 *Přidejte do svojí třídy Zlomek magickou metodu `__float__()`, tak aby předchozí kód fungoval.*
  
