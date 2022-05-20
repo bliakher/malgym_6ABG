@@ -59,7 +59,26 @@ plt.show()
 
 ```
 ```python
+import matplotlib.pyplot as plt
 
+# vytvoření grafu
+fig, ((ax1, ax2)) = plt.subplots(1, 2)
+
+# data pro graf
+x = []
+y1 = []
+y2 = []
+
+for i in range(-10, 11):
+    x.append(i)
+    y1.append(i*i)
+    y2.append(2*i*i)
+    
+ax1.plot(x, y1) # lomenná čára
+ax2.scatter(x, y2) # jednotlivé body
+
+# zobrazení grafu
+plt.show() 
 ```
 ```python
 
