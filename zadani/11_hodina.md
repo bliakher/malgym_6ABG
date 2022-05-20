@@ -81,6 +81,48 @@ ax2.scatter(x, y2) # jednotlivé body
 plt.show() 
 ```
 ```python
+import matplotlib.pyplot as plt
+import random as rnd
+
+def generate_people(count):
+    people = []
+    for i in range(count):
+        date = rnd.randint(1, 366)
+        people.append(date)
+    return people
+
+def count_pairs(dates):
+    result = 0
+    for date in dates:
+        c = dates.count(date)
+        if c > 1:
+            result += 1
+    return result
+
+def count_duplicates(array):
+    s = set(array)
+    return len(array) - len(s)
+
+    # [1, 2, 2, 1, 3, 1]
+    
+# vytvoření grafu
+fig, ax = plt.subplots()
+
+# data pro graf
+x = []
+y = []
+
+for i in range(2, 367):
+    x.append(i)
+    people = generate_people(i)
+    pairs = count_duplicates(people)
+    y.append(pairs)
+    
+ax.bar(x, y) 
+
+
+# zobrazení grafu
+plt.show() 
 
 ```
 
