@@ -38,7 +38,7 @@ fig, axs = plt.subplots(2, 2) # obrazovka se 4 grafy v mřížce 2x2
 # axs je dvourozměrné pole 2x2 s objekty grafů
 fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2) # rovnou rozložím pole na objekty
 ```
-Příklad se 4 grafy
+### Příklad se 4 grafy
 ```python
 import matplotlib.pyplot as plt
 
@@ -58,6 +58,7 @@ ax4.stem(x, y)
 plt.show() 
 
 ```
+### Funkce x^2 a 2x^2 - vygenerování dat
 ```python
 import matplotlib.pyplot as plt
 
@@ -80,6 +81,8 @@ ax2.scatter(x, y2) # jednotlivé body
 # zobrazení grafu
 plt.show() 
 ```
+
+### Simulace - narozeninový paradox
 ```python
 import matplotlib.pyplot as plt
 import random as rnd
