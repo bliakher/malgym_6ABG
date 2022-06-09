@@ -18,11 +18,13 @@ Základní funkcionality - https://pandas.pydata.org/docs/getting_started/intro_
 
 5) Zjistit průměrný věk obyvatel.
 
-6) Vytvořit nový sloupeček tabulky, ve kterém bude první cifra z PSČ obyvatele.
+6) Zjistit průměrný věk zvlášť mužů a žen.
 
-7) Propojit tabulku obyvatel a tabulku PSČ podle sloupečku `PSČ_začátek` tak, aby u obyvatele byl sloupeček z názvem regionu, ve kterém žije. (Využijte funkci `merge`)
+7) Vytvořit nový sloupeček tabulky, ve kterém bude první cifra z PSČ obyvatele.
 
-8) Vytvořit graf počtu obyvatel v každém regionu. (Využijte funkci `groupby`)
+8) Propojit tabulku obyvatel a tabulku PSČ podle sloupečku `PSČ_začátek` tak, aby u obyvatele byl sloupeček z názvem regionu, ve kterém žije. (Využijte funkci `merge`)
 
-9) Vytvořit graf rozložení věku žen v Praze.
+9) Vytvořit graf počtu obyvatel v každém regionu. (Využijte funkci `groupby`)
+
+10) Vytvořit graf rozložení věku žen v Praze.
 
